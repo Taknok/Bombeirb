@@ -1,0 +1,4 @@
+Pl1	emp	tre	sto	b+p	b-p	bem	b+l	b+m	Pri
+do2	dc1	key	bom	mon	+li	-pb	+pb	+nb	-nb
+b+n 	b-n	emp	emp 	emp	emp	emp	emp	emp	emp
+
